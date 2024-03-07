@@ -1,1 +1,2 @@
-test my knowledge 15 times
+test my knowledge 10 times
+main
